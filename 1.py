@@ -4,7 +4,8 @@ print(a)
 def haha():
 	if a == 1:
 		print("Hahahah")
-	else:
+	elif a == 2:
 		print("Too Bad!")
 
+a = 2
 b = haha()
